@@ -10,6 +10,14 @@ DevOps Cool Stuff
 
 
 ## Secrets
+
 *Keeping your secrets safe*
 
 - [Vault Project](https://vaultproject.io/)
+
+
+## HTTP
+
+*Working with HTTP servers*
+
+- [htty](http://htty.github.io/htty)
