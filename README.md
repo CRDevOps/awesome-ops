@@ -21,3 +21,15 @@ DevOps Cool Stuff
 *Working with HTTP servers*
 
 - [htty](http://htty.github.io/htty)
+
+## Certificates
+
+*by Q4 2015 we will have free fully functional certificates*
+
+- [Let's Encrypt](https://letsencrypt.org/)
+
+## Containers
+
+*Docker from the inside*
+
+- [LXC tools](http://www.cyberciti.biz/faq/how-to-find-out-information-about-lxc-cpu-memory-networking/)
